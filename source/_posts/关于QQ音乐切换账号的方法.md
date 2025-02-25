@@ -15,24 +15,24 @@ tags:
 ## 具体步骤
 
 ### 第一步：打开QQ音乐，点击"立即登录"按钮
-[![OQkFJs.md.jpg](https://ooo.0x0.ooo/2025/02/26/OQkFJs.md.jpg)](https://img.tg/image/OQkFJs)
+![10.jpg](https://s2.loli.net/2025/02/26/y2R6QMpO3esa4Kw.jpg)
 
 ### 第二步：选择登录方式，勾选"同意"方框，点击"扫码登录"按钮
-[![OQkhlK.md.jpg](https://ooo.0x0.ooo/2025/02/26/OQkhlK.md.jpg)](https://img.tg/image/OQkhlK)
+![11.jpg](https://s2.loli.net/2025/02/26/c7wS1PVayOi62Qo.jpg)
 
 ### 跳转后的界面大概如下：
-[![OQkzzB.md.jpg](https://ooo.0x0.ooo/2025/02/26/OQkzzB.md.jpg)](https://img.tg/image/OQkzzB)
+![12.jpg](https://s2.loli.net/2025/02/26/bXwQEvoPaIZUjxG.jpg)
 
 ### 第三步：打开另一台手机QQ音乐，点击右上角的"设置"图标，跳转到下一个界面
-[![OQknTa.md.jpg](https://ooo.0x0.ooo/2025/02/26/OQknTa.md.jpg)](https://img.tg/image/OQknTa)
+![13.jpg](https://s2.loli.net/2025/02/26/uoSHXpQYMv1k5t9.jpg)
 
 ### 第四步：点击右上角"扫一扫"图标，扫描第二步弹出的二维码
-[![OQk1ZS.md.jpg](https://ooo.0x0.ooo/2025/02/26/OQk1ZS.md.jpg)](https://img.tg/image/OQk1ZS)
+![14.jpg](https://s2.loli.net/2025/02/26/du7okT2ygSvE1QA.jpg)
 
 ### 扫描后的界面大概如下：
-[![OQk7cN.md.jpg](https://ooo.0x0.ooo/2025/02/26/OQk7cN.md.jpg)](https://img.tg/image/OQk7cN)
+![15.jpg](https://s2.loli.net/2025/02/26/SlIoObMyCwaLHUX.jpg)
 
 ### 第五步：点击"登录"和"确认"按钮，检查另一个手机是否登录成功，如果不成功一般重来一次就可以完成新设备的登录
-[![OQkeMC.md.jpg](https://ooo.0x0.ooo/2025/02/26/OQkeMC.md.jpg)](https://img.tg/image/OQkeMC)
+![16.jpg](https://s2.loli.net/2025/02/26/vpuePTjO84caobg.jpg)
 
 ## 如需临时保存该账号的登录权限，可以使用该方法在不同设备间切换。
