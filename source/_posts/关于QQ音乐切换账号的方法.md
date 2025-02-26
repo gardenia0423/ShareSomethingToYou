@@ -21,7 +21,7 @@ tags:
 ![11.jpg](https://s2.loli.net/2025/02/26/c7wS1PVayOi62Qo.jpg)
 
 ### 跳转后的界面大概如下：
-![12.jpg](https://s2.loli.net/2025/02/26/bXwQEvoPaIZUjxG.jpg)
+![12.jpg](https://s2.loli.net/2025/02/26/u2sJQXmcjrRZ5ef.jpg)
 
 ### 第三步：打开另一台手机QQ音乐，点击右上角的"设置"图标，跳转到下一个界面
 ![13.jpg](https://s2.loli.net/2025/02/26/uoSHXpQYMv1k5t9.jpg)
